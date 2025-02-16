@@ -1,2 +1,5 @@
 # Network-Security-Project
-The project aims to implement network security concepts and best practices to create a secure network infrastructure. The implementation includes configuring Next Generation Firewalls, setting up intrusion detection systems, and establishing secure communication protocols.
+Designed and implemented a secure network architecture with Cisco ASA, configuring IPS to detect and block malicious traffic. Deployed secure IPsec VPNs for encrypted remote communication, implemented AAA protocols for access control, and applied Layer 2 security measures to protect against threats like VLAN hopping and MAC spoofing and IEEE 802.1x..
+# Supervised by Dr Sahar El-Shazly at NTI.
+# This project is designed by Dr Sahar El-Shazly.
+# Project is configured and implemented by Tarek Fayez Mohamed.
